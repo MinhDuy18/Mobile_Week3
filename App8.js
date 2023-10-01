@@ -59,6 +59,14 @@ export default function App() {
                 </TouchableOpacity>
 
 
+
+
+                {/* <TouchableOpacity> <Text style={[styles.text, styles.customText1, { color: '#5D25FA' }]}></Text></TouchableOpacity> */}
+
+                {/* <Text style={[styles.text, styles.customText1]}> Or login with</Text> */}
+
+
+
             </View>
 
             <View style={styles.styles4}>
